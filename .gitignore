@@ -1,2 +1,5 @@
 # Пути исключения проекта
 /.gradle/
+/.idea/
+/build/
+/gradle/

@@ -4,3 +4,12 @@ main: ru.andrewzex.tMEPlugin.TMEPlugin
 api-version: '1.18'
 authors: [ THDev ]
 description: TME - is TNT Minecart Editor
+commands:
+  tme:
+    description: TME plugin command
+    usage: /tme reload
+    permission: TME.admin
+permissions:
+  TME.admin:
+    description: Allows reloading TMEPlugin
+    default: op

@@ -1,0 +1,4 @@
+min-explosion-duration: 1 # Time in seconds
+max-explosion-duration: 60 # Time in seconds
+randomizer: false # if true - redstone powder will be ignored
+lang: en_US # plugin language

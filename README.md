@@ -8,6 +8,17 @@ A lightweight Minecraft plugin that gives you full control over TNT minecart exp
 
 ---
 
+## ⭐Aviable on <br>
+-   <a href="https://modrinth.com/plugin/tiny-server">
+    <img src="https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/B38Erf5M&logo=modrinth" alt="Modrinth Downloads">
+  </a>
+  
+-   <a href="https://www.spigotmc.org/resources/tme-plugin.126652/">
+    <img src="https://img.shields.io/badge/SpigotMC-Download-orange?logo=spigotmc&style=flat" alt="SpigotMC">
+  </a>
+
+---
+
 ## 📋 Features
 
 - Dynamically set TNT minecart explosion timers using Redstone Dust.

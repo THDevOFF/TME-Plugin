@@ -9,7 +9,7 @@ A lightweight Minecraft plugin that gives you full control over TNT minecart exp
 ---
 
 ## ⭐Aviable on <br>
--   <a href="https://modrinth.com/plugin/tiny-server">
+-   <a href="https://modrinth.com/plugin/TME-Plugin">
     <img src="https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/B38Erf5M&logo=modrinth" alt="Modrinth Downloads">
   </a>
   
